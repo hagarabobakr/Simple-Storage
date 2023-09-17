@@ -1,17 +1,3 @@
-## May Allah's peace, mercy and blessings be upon you!
-**This is my first smart contract.**
-
-Used in:
--   **Solidity**: is a high-level programming language used for developing smart contracts on the Ethereum blockchain.
--   **Foundry**:  is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust 
-
-## Documentation for Foundry
-
-https://book.getfoundry.sh/
-
-**code**
-
-```solidity
 // I'm a comment!
 // SPDX-License-Identifier: MIT
 
@@ -45,4 +31,3 @@ contract SimpleStorage {
         nameToFavoriteNumber[_name] = _favoriteNumber;
     }
 }
-```
