@@ -1,3 +1,4 @@
+## السلام عليكم ورحمة الله وبركاته 
 ## May Allah's peace, mercy and blessings be upon you!
 **This is my first smart contract.**
 
